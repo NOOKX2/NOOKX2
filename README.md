@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================================
 
 * 🌍  I'm full stack  developer.
-* Nextjs + Go Fiber is tech stack that I choose
 * ✉️  You can contact me at [iamthatchavit@gmail.com](mailto:iamthatchavit@gmail.com)
 
 
